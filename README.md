@@ -6,7 +6,7 @@ An interactive Power BI dashboard built to analyze retail sales performance from
 
 # Dashboard Preview
 
-(Overall%20Sales%20Dashboard.png)
+![Overall Sales](Overall%20Sales%20Dashboard.png)
 
 ---
 
@@ -62,19 +62,19 @@ This project transforms raw retail sales data into meaningful business insights 
 
 ## Revenue Analysis
 
-Price Range Analysis.png
+![Revenue Analysis](Over%20States.png)
 
 ---
 
 ## Country-wise Sales
 
-Country-wise Sales.png
+![Country Sales](Country-wise%20Sales.png)
 
 ---
 
 ## Price Range Performance
 
- Price Range Analysis.png
+![Price Range](Price%20Range%20Analysis.png)
 
 ---
 
