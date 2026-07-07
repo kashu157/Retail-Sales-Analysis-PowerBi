@@ -62,19 +62,19 @@ This project transforms raw retail sales data into meaningful business insights 
 
 ## Revenue Analysis
 
-![Revenue Analysis](Price Range Analysis.png)
+Price Range Analysis.png
 
 ---
 
 ## Country-wise Sales
 
-![Country Sales](Country-wise Sales.png)
+Country-wise Sales.png
 
 ---
 
 ## Price Range Performance
 
-![Price Range](Price Range Analysis.png)
+ Price Range Analysis.png
 
 ---
 
